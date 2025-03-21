@@ -1,8 +1,0 @@
-{
-     "config": {
-        "user":"firstname.lastname",
-        "token":"<String of Random Characters>",
-        "server": "https://jira2.companyname.com",
-        "epic": "<Epic Jira ID i.e. 'JIRA-1234'>"
-    }
-}
