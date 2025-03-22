@@ -22,8 +22,8 @@ if you want to be able to view a cycle time breakdown for an epic, enter that ep
  "config": {
         "user":"firstname.lastname",
         "token":"<String of Random Characters>",
-        "server": "https://jira2.workday.com",
-        "epic": "<Epic Jira ID i.e. "ADOPT-5149">"
+        "server": "https://jira2.companyname.com",
+        "epic": "<Epic Jira ID i.e. "Jira-1234">"
     }
 
 Now run the program
